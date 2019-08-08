@@ -1,4 +1,4 @@
-system"l /app/kxdemo/kxinstall/delta-data/ANZ_HDB";
+system"l /path/to/HDB";
 system"l p.q";
 np:.p.import`numpy;
 sk:.p.import`sklearn;
